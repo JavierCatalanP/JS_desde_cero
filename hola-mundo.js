@@ -9,3 +9,5 @@ alert("Hola mundo js");
 //document.write("Hola mundo");
 
 document.write("<h1>Hola mundo</h1>");
+
+//
