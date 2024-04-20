@@ -10,4 +10,4 @@ alert("Hola mundo js");
 
 document.write("<h1>Hola mundo</h1>");
 
-//
+//comentario para pruebas
