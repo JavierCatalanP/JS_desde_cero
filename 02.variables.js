@@ -1,7 +1,14 @@
 let miNumero1 = 15;
 console.log(miNumero1);
 
-//Reglas para nombres de variables
+//Reglas para nombres de variables:
+//se puede comenzar por letras, _ o $, posteriormente se pueden usar numeros
+let $miNumero1 = 15;
+let _miNumero2 = 10;
+console.log(_miNumero2);
+
+//JavaScript es sensible a las mayusculas y minusculas
+
 //No puede iniciar con numeros
 //No puede contener espacios
 //No puede contener caracteres especiales
