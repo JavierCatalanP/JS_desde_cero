@@ -35,10 +35,57 @@ console.log(h);
 
 
 
-
 // ++ Incremento ++X ó X++ 
+let = a, b, c;
+
+a = 1;
+++a;
+console.log(a);
+
+b= 10;
+b = --b;
+console.log(b);
+
+// Pre - Ingremento
+++a;
+console.log(a);
+
+
+// Post - Decremento
+a++;
+console.log(a);
+
+
 
 // -- Decremento --X ó X -- 
+// Pre - Ingremento
+--a;
+console.log(a);
+
+
+// Post - Decremento
+a;
+console.log(a);
+
+
+console.log(a);
+
+
+// Post - Incremento
+a++;
+console.log(a);
+
+
+//Ejemplo:
+a = 5;
+b = 2;
+c = ++a * b--;
+
+console.log(a);
+console.log(b);
+console.log(c);
+
+
 
 //Operadores de asignación
 
